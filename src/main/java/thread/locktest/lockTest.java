@@ -9,6 +9,7 @@ public class lockTest {
         new Thread(a,"张三").start();
         new Thread(a,"李四").start();
         new Thread(a,"王五").start();
+        new Thread(a,"张麻子").start();
 
     }
 
